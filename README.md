@@ -1,4 +1,3 @@
 # DeAnKNNN
-Đề tài đề án 
-Create your own branch if you want to add your new work
-Thank you!!
+Toàn bộ link đều nằm trong file .docx
+Cảm ơn thầy
